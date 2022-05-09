@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/visualbuilds/static/css/main.9433a7d4.css",
-    "main.js": "/visualbuilds/static/js/main.40064f20.js",
+    "main.js": "/visualbuilds/static/js/main.56649c39.js",
     "static/js/787.f86ce632.chunk.js": "/visualbuilds/static/js/787.f86ce632.chunk.js",
     "static/media/main-fonts.svg?v=20": "/visualbuilds/static/media/main-fonts.404be73e1ad40b1da282.svg",
     "static/media/main-fonts.eot?v=20": "/visualbuilds/static/media/main-fonts.b8dc46886b7e216a02be.eot",
@@ -9,11 +9,11 @@
     "static/media/main-fonts.woff?v=20": "/visualbuilds/static/media/main-fonts.dbf9ed7d53cfa8f73da7.woff",
     "index.html": "/visualbuilds/index.html",
     "main.9433a7d4.css.map": "/visualbuilds/static/css/main.9433a7d4.css.map",
-    "main.40064f20.js.map": "/visualbuilds/static/js/main.40064f20.js.map",
+    "main.56649c39.js.map": "/visualbuilds/static/js/main.56649c39.js.map",
     "787.f86ce632.chunk.js.map": "/visualbuilds/static/js/787.f86ce632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9433a7d4.css",
-    "static/js/main.40064f20.js"
+    "static/js/main.56649c39.js"
   ]
 }
